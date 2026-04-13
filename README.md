@@ -16,6 +16,12 @@ A collection of Python projects built while learning backend development.
 - Input validation using try/except
 - Tracks all guesse
 
+### 3. Login System
+- 3 attempt limit with lockout
+- Separate validation for username and password
+- Remaining attempts counter
+- Account locked message
+
 ## Skills Learned
 - Python functions
 - Error handling (try/except)

@@ -22,6 +22,12 @@ A collection of Python projects built while learning backend development.
 - Remaining attempts counter
 - Account locked message
 
+### 4. CLI Log Analyzer
+- Collects log entries from user input
+- Counts INFO, ERROR, WARNING occurrences
+- Case-insensitive log matching
+- Real-world DevOps concept
+
 ## Skills Learned
 - Python functions
 - Error handling (try/except)

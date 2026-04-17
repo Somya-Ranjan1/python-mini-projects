@@ -28,6 +28,16 @@ A collection of Python projects built while learning backend development.
 - Case-insensitive log matching
 - Real-world DevOps concept
 
+### 5. CLI Log Analyzer V2
+A command-line based log analyzer with improved validation and structured output.
+
+**Features:**
+- Validates log input format (INFO, ERROR, WARNING)
+- Uses dictionary-based counting for efficiency
+- Displays percentage breakdown for each log level
+- Handles edge cases using `.strip()` and input checks
+- Provides clean and readable summary output
+
 ## Skills Learned
 - Python functions
 - Error handling (try/except)

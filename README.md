@@ -38,6 +38,11 @@ A command-line based log analyzer with improved validation and structured output
 - Handles edge cases using `.strip()` and input checks
 - Provides clean and readable summary output
 
+### 6. Port Status Checker
+- Identifies common ports (HTTP, HTTPS, SSH, FTP)
+- Dictionary-based port mapping
+- Real-world DevOps/Networking concept
+
 ## Skills Learned
 - Python functions
 - Error handling (try/except)

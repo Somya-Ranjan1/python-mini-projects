@@ -5,9 +5,20 @@ ports = {
     21: "FTP"
 }
 
-port = int(input("Enter port number: "))
+while True:
+    user_input = input("Enter port number (or type 'exit'): ")
 
-if port in ports:
-    print(f"Port {port} is commonly used for {ports[port]}")
-else:
-    print(f"Port {port} is unknown or not in the list")
+    if user_input.lower() == "exit":
+        print("Exiting...")
+        break
+
+    if not user_input.isdigit():
+        print("Invalid input. Please enter a number.")
+        continue
+
+    port = int(user_input)
+
+    if port in ports:
+        print(f"Port {port} is commonly used for {ports[port]}")
+    else:
+        print(f"Port {port} is unknown")

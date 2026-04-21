@@ -39,10 +39,18 @@ A command-line based log analyzer with improved validation and structured output
 - Provides clean and readable summary output
 
 ### 6. Port Status Checker
-- Identifies common ports (HTTP, HTTPS, SSH, FTP)
-- Dictionary-based port mapping
-- Real-world DevOps/Networking concept
+A CLI tool to identify common network ports and their services.
 
+Features:
+- Identifies ports like HTTP (80), HTTPS (443), SSH (22), FTP (21)
+- Uses dictionary-based mapping for efficient lookup
+- Continuous input using loop (interactive CLI tool)
+- Input validation to prevent crashes
+- Exit option for clean termination
+
+Use Case:
+Helps understand basic networking concepts and common service ports used in DevOps and backend systems.
+	
 ## Skills Learned
 - Python functions
 - Error handling (try/except)

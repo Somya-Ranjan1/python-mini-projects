@@ -50,6 +50,17 @@ Features:
 
 Use Case:
 Helps understand basic networking concepts and common service ports used in DevOps and backend systems.
+
+7. JSON User Manager
+A CLI tool to store user data in JSON format.
+
+Features:
+- Add users (name + email)
+- Stores data in JSON file
+- Demonstrates structured data handling
+
+Use Case:
+Useful for backend development and API data handling.
 	
 ## Skills Learned
 - Python functions

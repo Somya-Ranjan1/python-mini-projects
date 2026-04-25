@@ -51,7 +51,7 @@ Features:
 Use Case:
 Helps understand basic networking concepts and common service ports used in DevOps and backend systems.
 
-7. JSON User Manager
+### 7. JSON User Manager
 A CLI tool to store user data in JSON format.
 
 Features:
@@ -61,6 +61,18 @@ Features:
 
 Use Case:
 Useful for backend development and API data handling.
+
+8. API Status Checker
+A CLI tool to check the availability and response status of APIs.
+
+Features:
+- Sends HTTP requests to given URLs
+- Displays response status codes (200, 404, etc.)
+- Handles connection errors using try/except
+- Continuous input with exit option
+
+Use Case:
+Useful for backend service testing, API monitoring, and DevOps health checks.
 	
 ## Skills Learned
 - Python functions

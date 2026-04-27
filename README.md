@@ -62,7 +62,7 @@ Features:
 Use Case:
 Useful for backend development and API data handling.
 
-8. API Status Checker
+### 8. API Status Checker
 A CLI tool to check the availability and response status of APIs.
 
 Features:
@@ -73,8 +73,19 @@ Features:
 
 Use Case:
 Useful for backend service testing, API monitoring, and DevOps health checks.
+
+### 9. Multi API Health Checker
+A CLI tool to monitor multiple APIs at once.
+
+Features:
+- Checks multiple API endpoints automatically
+- Displays HTTP status codes
+- Handles connection failures using try/except
+
+Use Case:
+Useful for DevOps monitoring and backend service health checks.
 	
-## Skills Learned
+### Skills Learned
 - Python functions
 - Error handling (try/except)
 - Loops and conditionals

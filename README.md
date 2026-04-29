@@ -84,6 +84,16 @@ Features:
 
 Use Case:
 Useful for DevOps monitoring and backend service health checks.
+
+### 10. Environment Variable Checker
+
+A CLI tool to read system environment variables.
+
+Features:
+- Retrieves environment variable values
+- Handles missing variables
+- Interactive CLI loop
+
 	
 ### Skills Learned
 - Python functions

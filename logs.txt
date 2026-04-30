@@ -1,0 +1,5 @@
+INFO: Server started
+ERROR: Database failed
+WARNING: High memory usage
+INFO: User logged in
+ERROR: Timeout occurred

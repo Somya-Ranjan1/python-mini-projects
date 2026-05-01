@@ -94,6 +94,16 @@ Features:
 - Handles missing variables
 - Interactive CLI loop
 
+### 12. Log File Parser
+A CLI tool to analyze logs from a file.
+
+Features:
+- Reads logs from a file
+- Counts INFO, ERROR, WARNING
+- Demonstrates file handling and log processing
+
+Use Case:
+Useful for DevOps log analysis and backend debugging.
 	
 ### Skills Learned
 - Python functions

@@ -1,6 +1,6 @@
 # Python Mini Projects
 
-A collection of Python projects built while learning backend development.
+A collection of Python mini projects built while learning backend development and automation. Includes API health checkers, log analyzers, JSON data managers, and networking utilities to demonstrate practical Python and system programming skills.
 
 ## Projects
 
